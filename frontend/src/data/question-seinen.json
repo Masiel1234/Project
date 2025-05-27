@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Quién es el protagonista de Berserk?",
+    "options": ["Guts", "Griffith", "Casca", "Skull Knight"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué profesión tiene el protagonista de Monster?",
+    "options": ["Cirujano", "Detective", "Abogado", "Profesor"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué ciudad comienza la historia de Monster?",
+    "options": ["Berlín", "Düsseldorf", "Tokio", "Praga"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué anime tiene como tema principal los traumas psicológicos y el vacío existencial?",
+    "options": ["Naruto", "Attack on Titan", "Paranoia Agent", "Death Parade"],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es el objetivo de Johan en Monster?",
+    "options": ["Convertirse en rey", "Destruir el mundo", "Buscar venganza", "Crear el caos"],
+    "correct": 3
+  },
+  {
+    "question": "¿Quién escribió el manga Vagabond?",
+    "options": ["Naoki Urasawa", "Inio Asano", "Takehiko Inoue", "Kentaro Miura"],
+    "correct": 2
+  },
+  {
+    "question": "¿De qué trata Vinland Saga?",
+    "options": ["Viajes espaciales", "Vikingos", "Samuráis", "Zombis"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué personaje de Tokyo Ghoul tiene un kagune tipo rinkaku?",
+    "options": ["Kaneki", "Touka", "Amon", "Uta"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime un mangaka se enfrenta a su oscuro pasado?",
+    "options": ["Bakuman", "Goodnight Punpun", "ReLife", "A Silent Voice"],
+    "correct": 1
+  },
+  {
+    "question": "¿Cuál es el nombre de la organización en Psycho-Pass?",
+    "options": ["Sibyl System", "Homunculi", "Shie Hassaikai", "Agency"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué arma usa Guts principalmente?",
+    "options": ["Katana", "Lanza", "Espada gigante", "Martillo"],
+    "correct": 2
+  },
+  {
+    "question": "¿Quién escribió el manga de Monster?",
+    "options": ["Takehiko Inoue", "Naoki Urasawa", "Sui Ishida", "Hajime Isayama"],
+    "correct": 1
+  },
+  {
+    "question": "¿En qué anime aparece el personaje de Reigen Arataka?",
+    "options": ["Mob Psycho 100", "Death Note", "Black Lagoon", "Elfen Lied"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es el tema principal de Parasyte?",
+    "options": ["Amistad", "Alienígenas", "Romance", "Viajes en el tiempo"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué protagonista comparte cuerpo con una parásito alienígena?",
+    "options": ["Shinichi", "L", "Light", "Shinji"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es la ocupación de Re-L Mayer en Ergo Proxy?",
+    "options": ["Detective", "Policía", "Inspectora", "Soldado"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué obra se considera un seinen clásico del horror psicológico?",
+    "options": ["Naruto", "Neon Genesis Evangelion", "Monster", "One Piece"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué ciudad es importante en Tokyo Ghoul?",
+    "options": ["Osaka", "Yokohama", "Tokio", "Kyoto"],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es el tipo de historia de 20th Century Boys?",
+    "options": ["Acción", "Ciencia ficción", "Thriller psicológico", "Deportes"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué anime muestra el conflicto entre moral y justicia con criminales?",
+    "options": ["Attack on Titan", "Psycho-Pass", "Black Clover", "Sword Art Online"],
+    "correct": 1
+  }
+]

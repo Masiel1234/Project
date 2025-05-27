@@ -1,0 +1,57 @@
+{
+  "common": {
+    "language_selector_label": "Select Language"
+  },
+  "menuButton": {
+    "h2title": "Are you sure?",
+    "confirmButton": "yes",
+    "cancelButton": "no"
+  },
+  "home": {
+    "sign_in_button": "Sign in",
+    "sign_up_button": "Sign up"
+  },
+  "index": {
+    "random_button": "Random",
+    "category_title": "Category"
+  },
+  "isekaiPage": {
+    "title": "Isekai Quiz",
+    "loadingQuestions": "Loading questions..."
+  },
+  "buttonLeave": {
+    "Leave_Game": "Leave Game",
+    "message": "Are you sure you want to  the game? Your progress will be lost.",
+    "confirmButtonText": "Yes, ",
+    "cancelButtonText": "No, continue",
+    "title": " Game"
+  },
+  "quiz": {
+    
+    "noQuestionsAvailable": "No questions available.",
+    "congratulationsTitle": "🎉 Congratulations! 🎉",
+    "congratulationsMessage": "You have completed all the quiz questions!",
+    "backToHome": "Back to home",
+    "correctFeedback": "✅ Correct!",
+    "incorrectFeedback": "❌ Incorrect. The correct answer is: ",
+    "nextQuestion": "Next question"
+  },
+  "plans": {
+    "name": "our plans",
+    "basic_plan": "Basic Plan",
+    "premium_plan": "Premium Plan",
+    "pro_plan": "Pro Plan",
+    "selectButton": "select"
+  },
+  "our_plans_title": "Our Plans",
+  "loading_prices": "Loading prices...",
+  "error_loading_prices": "Failed to load prices. Please try again later.",
+
+  "trivia": {
+    "title": "Anime Trivia",
+    "correct": "Correct!",
+    "incorrect": "Incorrect!",
+    "correct_answer": "Correct answer",
+    "next_question": "Next question"
+  }
+}

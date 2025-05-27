@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Quién es la protagonista de Sailor Moon?",
+    "options": ["Usagi Tsukino", "Ami Mizuno", "Rei Hino", "Makoto Kino"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué personaje se convierte en la Princesa del Reino de la Luna?",
+    "options": ["Ami Mizuno", "Usagi Tsukino", "Makoto Kino", "Rei Hino"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué manga es famoso por su historia de romance y magia?",
+    "options": ["Fruits Basket", "Nana", "Cardcaptor Sakura", "Sailor Moon"],
+    "correct": 3
+  },
+  {
+    "question": "¿Quién es el protagonista masculino de Fruits Basket?",
+    "options": ["Kyo Sohma", "Yuki Sohma", "Shigure Sohma", "Hatsuharu Sohma"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué manga el protagonista busca liberar a un príncipe atrapado?",
+    "options": ["Kimi ni Todoke", "Yona of the Dawn", "Kare Kano", "Ouran High School Host Club"],
+    "correct": 1
+  },
+  {
+    "question": "¿En qué anime la protagonista se encuentra atrapada en un mundo paralelo?",
+    "options": ["Inuyasha", "Fruits Basket", "Skip Beat!", "Nodame Cantabile"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué serie la protagonista se transforma en una famosa idol?",
+    "options": ["Lovely★Complex", "Nodame Cantabile", "Maid-Sama!", "Skip Beat!"],
+    "correct": 3
+  },
+  {
+    "question": "¿Qué personaje en Cardcaptor Sakura tiene un gato llamado Keroberos?",
+    "options": ["Sakura Kinomoto", "Tomoyo Daidouji", "Li Syaoran", "Kero"],
+    "correct": 3
+  },
+  {
+    "question": "¿Quién es el mejor amigo de la protagonista en Kamisama Kiss?",
+    "options": ["Mikage", "Kurama", "Daikoku", "Tomoe"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué personaje en Hana Yori Dango es el más introvertido?",
+    "options": ["Tsukushi Makino", "Rui Hanazawa", "Domyoji Tsukasa", "Sojiro Nishikado"],
+    "correct": 1
+  },
+  {
+    "question": "¿En qué anime la protagonista tiene una habilidad especial para ver fantasmas?",
+    "options": ["Nodame Cantabile", "Sailor Moon", "Yamato Nadeshiko Shichihenge", "Maid-Sama!"],
+    "correct": 3
+  },
+  {
+    "question": "¿Qué anime trata sobre una chica que se enamora de un chico frío pero protector?",
+    "options": ["Kimi ni Todoke", "Lovely★Complex", "Fruits Basket", "Say I Love You"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué historia los chicos luchan por el corazón de una sola chica?",
+    "options": ["Ouran High School Host Club", "Kimi ni Todoke", "Skip Beat!", "Yona of the Dawn"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué personaje es conocido por su actitud desinteresada en Ouran High School Host Club?",
+    "options": ["Haruhi Fujioka", "Tamaki Suoh", "Kyoya Ohtori", "Mitsukuni Haninozuka"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime la protagonista es una estudiante que se hace pasar por un chico?",
+    "options": ["Nodame Cantabile", "Fruits Basket", "Ouran High School Host Club", "Kimi ni Todoke"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué personaje en Yona of the Dawn tiene poderes especiales?",
+    "options": ["Yona", "Hak", "Kija", "Jaeha"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué manga tiene como tema la vida de una mujer que se convierte en una idol?",
+    "options": ["Skip Beat!", "Nodame Cantabile", "Lovely★Complex", "Ouran High School Host Club"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime tiene como tema el romance entre dos chicos de diferentes mundos?",
+    "options": ["Yuri on Ice", "Fruits Basket", "Kimi ni Todoke", "Say I Love You"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué serie la protagonista es una chica con un temperamento fuerte?",
+    "options": ["Maid-Sama!", "Nodame Cantabile", "Skip Beat!", "Lovely★Complex"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué personaje en Cardcaptor Sakura tiene un amor no correspondido?",
+    "options": ["Sakura Kinomoto", "Li Syaoran", "Tomoyo Daidouji", "Meilin"],
+    "correct": 2
+  }
+]

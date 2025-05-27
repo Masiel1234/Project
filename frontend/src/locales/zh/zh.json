@@ -1,0 +1,55 @@
+{
+  "common": {
+    "language_selector_label": "选择语言"
+  },
+  "menuButton": {
+    "h2title": "你确定吗？",
+    "confirmButton": "是",
+    "cancelButton": "否"
+  },
+  "home": {
+    "sign_in_button": "登录",
+    "sign_up_button": "注册"
+  },
+  "index": {
+    "random_button": "随机",
+    "category_title": "类别"
+  },
+  "isekaiPage": {
+    "title": "异世界测验",
+    "loadingQuestions": "正在加载问题..."
+  },
+  "buttonLeave": {
+    "Leave_Game": "离开游戏",
+    "message": "您确定要放弃游戏吗？您的进度将丢失。",
+    "confirmButtonText": "是，放弃",
+    "cancelButtonText": "否，继续",
+    "title": "放弃游戏"
+  },
+  "quiz": {
+    "noQuestionsAvailable": "暂无可用的问题。",
+    "congratulationsTitle": "🎉 恭喜！ 🎉",
+    "congratulationsMessage": "您已完成所有测验题目！",
+    "backToHome": "返回首页",
+    "correctFeedback": "✅ 正确！",
+    "incorrectFeedback": "❌ 错误。正确答案是：",
+    "nextQuestion": "下一个问题"
+  },
+  "plans": {
+    "name": "我们的套餐",
+    "basic_plan": "基础套餐",
+    "premium_plan": "高级套餐",
+    "pro_plan": "专业套餐",
+    "selectButton": "选择"
+  },
+  "our_plans_title": "我们的套餐",
+  "loading_prices": "正在加载价格...",
+  "error_loading_prices": "加载价格失败。请稍后再试。",
+  "trivia": {
+    "title": "动漫知识问答",
+    "correct": "正确！",
+    "incorrect": "错误！",
+    "correct_answer": "正确答案",
+    "next_question": "下一个问题"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "isekaiPage": {
+    "title": "¡Bienvenido al Isekai!",
+    "loadingQuestions": "Cargando preguntas..."
+  },
+  "quiz": {
+    "q1": {
+      "questionText": "¿Qué significa 'isekai'?",
+      "options": [
+        "Otro mundo",
+        "Viaje en el tiempo",
+        "Realidad virtual",
+        "Mundo mágico"
+      ]
+    },
+    "q2": {
+      "questionText": "¿Cuál de los siguientes es un tropo común en el Isekai?",
+      "options": [
+        "El protagonista es reencarnado con poderes OP",
+        "El protagonista descubre que tiene superpoderes en su mundo original",
+        "El protagonista viaja al pasado para cambiar la historia",
+        "El protagonista es un detective en un mundo de fantasía"
+      ]
+    },
+    "q3": {
+      "questionText": "¿Qué objeto suele transportar a los protagonistas a un isekai?",
+      "options": [
+        "Un autobús",
+        "Un portal mágico",
+        "Un libro antiguo",
+        "Un videojuego"
+      ]
+    },
+    "noQuestionsAvailable": "No hay preguntas disponibles.",
+    "congratulationsTitle": "¡Felicidades!",
+    "congratulationsMessage": "Has completado el cuestionario de Isekai. ¡Eres un maestro de los mundos paralelos!",
+    "backToHome": "Volver al inicio",
+    "correctFeedback": "¡Correcto!",
+    "incorrectFeedback": "Incorrecto. La respuesta correcta es:"
+  }
+}

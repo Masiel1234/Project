@@ -1,0 +1,55 @@
+{
+  "common": {
+    "language_selector_label": "言語を選択"
+  },
+  "menuButton": {
+    "h2title": "本当にいいですか？",
+    "confirmButton": "はい",
+    "cancelButton": "いいえ"
+  },
+  "home": {
+    "sign_in_button": "サインイン",
+    "sign_up_button": "サインアップ"
+  },
+  "index": {
+    "random_button": "ランダム",
+    "category_title": "カテゴリー"
+  },
+  "isekaiPage": {
+    "title": "異世界クイズ",
+    "loadingQuestions": "質問を読み込み中..."
+  },
+  "buttonLeave": {
+    "Leave_Game": "ゲームを離れる",
+    "message": "本当にゲームを放棄しますか？進行状況は失われます。",
+    "confirmButtonText": "はい、放棄します",
+    "cancelButtonText": "いいえ、続けます",
+    "title": "ゲームを放棄"
+  },
+  "quiz": {
+    "noQuestionsAvailable": "利用可能な質問がありません。",
+    "congratulationsTitle": "🎉 おめでとうございます！ 🎉",
+    "congratulationsMessage": "全てのクイズ問題を完了しました！",
+    "backToHome": "ホームに戻る",
+    "correctFeedback": "✅ 正解！",
+    "incorrectFeedback": "❌ 不正解。正しい答えは：",
+    "nextQuestion": "次の質問"
+  },
+  "plans": {
+    "name": "プラン一覧",
+    "basic_plan": "ベーシックプラン",
+    "premium_plan": "プレミアムプラン",
+    "pro_plan": "プロプラン",
+    "selectButton": "選択"
+  },
+  "our_plans_title": "プラン一覧",
+  "loading_prices": "価格を読み込み中...",
+  "error_loading_prices": "価格の読み込みに失敗しました。後でもう一度お試しください。",
+  "trivia": {
+    "title": "アニメトリビア",
+    "correct": "正解！",
+    "incorrect": "不正解！",
+    "correct_answer": "正しい答え",
+    "next_question": "次の質問"
+  }
+}

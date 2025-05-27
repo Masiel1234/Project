@@ -1,0 +1,55 @@
+{
+  "common": {
+    "language_selector_label": "Sélectionner la langue"
+  },
+  "menuButton": {
+    "h2title": "Êtes-vous sûr ?",
+    "confirmButton": "oui",
+    "cancelButton": "non"
+  },
+  "home": {
+    "sign_in_button": "Se connecter",
+    "sign_up_button": "S'inscrire"
+  },
+  "index": {
+    "random_button": "Aléatoire",
+    "category_title": "Catégorie"
+  },
+  "isekaiPage": {
+    "title": "Quiz Isekai",
+    "loadingQuestions": "Chargement des questions..."
+  },
+  "buttonLeave": {
+    "Leave_Game": "Quitter le jeu",
+    "message": "Êtes-vous sûr de vouloir abandonner la partie ? Votre progression sera perdue.",
+    "confirmButtonText": "Oui, abandonner",
+    "cancelButtonText": "Non, continuer",
+    "title": "Abandonner la partie"
+  },
+  "quiz": {
+    "noQuestionsAvailable": "Aucune question disponible.",
+    "congratulationsTitle": "🎉 Félicitations ! 🎉",
+    "congratulationsMessage": "Vous avez terminé toutes les questions du quiz !",
+    "backToHome": "Retour à l'accueil",
+    "correctFeedback": "✅ Correct !",
+    "incorrectFeedback": "❌ Incorrect. La bonne réponse est : ",
+    "nextQuestion": "Question suivante"
+  },
+  "plans": {
+    "name": "nos plans",
+    "basic_plan": "Plan Basique",
+    "premium_plan": "Plan Premium",
+    "pro_plan": "Plan Pro",
+    "selectButton": "sélectionner"
+  },
+  "our_plans_title": "Nos Plans",
+  "loading_prices": "Chargement des prix...",
+  "error_loading_prices": "Échec du chargement des prix. Veuillez réessayer plus tard.",
+  "trivia": {
+    "title": "Quiz Anime",
+    "correct": "Correct !",
+    "incorrect": "Incorrect !",
+    "correct_answer": "Bonne réponse",
+    "next_question": "Question suivante"
+  }
+}

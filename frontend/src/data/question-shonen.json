@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Quién es el protagonista de Dragon Ball?",
+    "options": ["Vegeta", "Gohan", "Goku", "Piccolo"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué personaje busca convertirse en el Rey de los Piratas?",
+    "options": ["Luffy", "Zoro", "Naruto", "Ichigo"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es el objetivo de Naruto?",
+    "options": ["Ser Hokage", "Ser pirata", "Vengar a su familia", "Encontrar las esferas del dragón"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cómo se llama el espíritu de Ichigo en Bleach?",
+    "options": ["Hollow", "Zangetsu", "Bankai", "Shinigami"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué fruta comió Luffy?",
+    "options": ["Fruta del diablo", "Fruta de fuego", "Fruta de goma", "Fruta del dragón"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué técnica es característica de Goku?",
+    "options": ["Chidori", "Rasengan", "Kamehameha", "Getsuga Tensho"],
+    "correct": 2
+  },
+  {
+    "question": "¿Quién es el rival principal de Naruto?",
+    "options": ["Sasuke", "Kakashi", "Madara", "Obito"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime tiene gremios como Fairy Tail y Sabertooth?",
+    "options": ["Bleach", "One Piece", "Fairy Tail", "Black Clover"],
+    "correct": 2
+  },
+  {
+    "question": "¿Quién es All Might en My Hero Academia?",
+    "options": ["Villano", "Maestro de Izuku", "Hermano de Bakugo", "Padre de Shoto"],
+    "correct": 1
+  },
+  {
+    "question": "¿Cómo se llama el protagonista de Jujutsu Kaisen?",
+    "options": ["Gojo", "Yuji Itadori", "Megumi", "Nanami"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué es un Bankai?",
+    "options": ["Nivel de poder", "Transformación final", "Liberación máxima de una zanpakuto", "Técnica de fuego"],
+    "correct": 2
+  },
+  {
+    "question": "¿Quién es el padre de Gohan?",
+    "options": ["Vegeta", "Goten", "Goku", "Krillin"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué es el Sharingan?",
+    "options": ["Un arma", "Un ojo especial", "Un jutsu de fuego", "Una aldea ninja"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué gremio es el rival de Fairy Tail?",
+    "options": ["Phantom Lord", "Sabertooth", "Blue Pegasus", "Mermaid Heel"],
+    "correct": 1
+  },
+  {
+    "question": "¿Cuál es el Quirk de Izuku Midoriya?",
+    "options": ["Explosion", "Half-Cold Half-Hot", "One For All", "None"],
+    "correct": 2
+  },
+  {
+    "question": "¿Quién posee la espada Nichirin negra en Demon Slayer?",
+    "options": ["Zenitsu", "Inosuke", "Tanjiro", "Rengoku"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué clase de energía usan en Hunter x Hunter?",
+    "options": ["Chakra", "Nen", "Reiatsu", "Mana"],
+    "correct": 1
+  },
+  {
+    "question": "¿Cuál es el apellido de Edward en Fullmetal Alchemist?",
+    "options": ["Smith", "Elric", "Walker", "Mustang"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué personaje puede usar la técnica Rasengan?",
+    "options": ["Sasuke", "Goku", "Naruto", "Ichigo"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué anime incluye a la Liga de Villanos?",
+    "options": ["My Hero Academia", "One Piece", "Naruto", "Bleach"],
+    "correct": 0
+  }
+]

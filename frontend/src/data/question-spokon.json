@@ -1,0 +1,97 @@
+[
+  {
+    "question": "¿Qué deporte juega el protagonista de Haikyuu!!?",
+    "options": ["Voleibol", "Fútbol", "Baloncesto", "Béisbol"],
+    "correct": 0
+  },
+  {
+    "question": "¿Quién es el capitán del equipo de Kuroko no Basket?",
+    "options": ["Kagami Taiga", "Kuroko Tetsuya", "Aomine Daiki", "Midorima Shintaro"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué deporte se juega en Ace of Diamond?",
+    "options": ["Fútbol", "Béisbol", "Tenis", "Baloncesto"],
+    "correct": 1
+  },
+  {
+    "question": "¿En qué deporte se centra Slam Dunk?",
+    "options": ["Baloncesto", "Fútbol", "Voleibol", "Béisbol"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime tiene como protagonista a un nadador?",
+    "options": ["Free!", "Haikyuu!!", "Kuroko no Basket", "Ace of Diamond"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué deporte se centra Prince of Tennis?",
+    "options": ["Tenis", "Baloncesto", "Fútbol", "Voleibol"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué equipo de béisbol protagoniza Major?",
+    "options": ["Tokyo", "Seiho", "Okinawa", "Shonan"],
+    "correct": 1
+  },
+  {
+    "question": "¿En qué anime el protagonista quiere ser el mejor en el boxeo?",
+    "options": ["Hajime no Ippo", "Ace of Diamond", "Kuroko no Basket", "Haikyuu!!"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué deporte es el foco de Yowamushi Pedal?",
+    "options": ["Ciclismo", "Fútbol", "Baloncesto", "Tenis"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime un grupo de chicos compite en carreras de autos?",
+    "options": ["Initial D", "Yowamushi Pedal", "Haikyuu!!", "Prince of Tennis"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué deporte se centra la serie Hajime no Ippo?",
+    "options": ["Boxeo", "Fútbol", "Tenis", "Baloncesto"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime trata sobre un equipo de fútbol?",
+    "options": ["Captain Tsubasa", "Ace of Diamond", "Haikyuu!!", "Slam Dunk"],
+    "correct": 0
+  },
+  {
+    "question": "¿Quién es el capitán de la selección de fútbol en Inazuma Eleven?",
+    "options": ["Mark Evans", "Gouenji", "Endou Mamoru", "Aoyama"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué deporte juega el protagonista de All Out!!?",
+    "options": ["Rugby", "Fútbol", "Baloncesto", "Voleibol"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime tiene como protagonista a un equipo de baloncesto escolar?",
+    "options": ["Kuroko no Basket", "Haikyuu!!", "Prince of Tennis", "Yowamushi Pedal"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime tiene como tema principal el vóley?",
+    "options": ["Haikyuu!!", "Slam Dunk", "Ace of Diamond", "Kuroko no Basket"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime el protagonista quiere ser el mejor jugador de fútbol?",
+    "options": ["Captain Tsubasa", "Haikyuu!!", "Ace of Diamond", "Kuroko no Basket"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime el protagonista utiliza técnicas especiales para ganar en el baloncesto?",
+    "options": ["Kuroko no Basket", "Haikyuu!!", "Ace of Diamond", "Yowamushi Pedal"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime trata sobre un equipo de fútbol en una escuela secundaria?",
+    "options": ["Inazuma Eleven", "Captain Tsubasa", "Haikyuu!!", "Ace of Diamond"],
+    "correct": 0
+  }
+]

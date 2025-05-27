@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Cuál es el nombre del protagonista de Re:Zero?",
+    "options": ["Subaru Natsuki", "Kazuma Satou", "Naofumi Iwatani", "Kirito"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime el protagonista es transportado a un mundo con una diosa inútil?",
+    "options": ["Konosuba", "No Game No Life", "Overlord", "Tensei Shitara Slime Datta Ken"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cómo se llama el protagonista de That Time I Got Reincarnated as a Slime?",
+    "options": ["Kazuto Kirigaya", "Satoru Mikami", "Naofumi Iwatani", "Shiroe"],
+    "correct": 1
+  },
+  {
+    "question": "¿Cuál de estos animes NO es isekai?",
+    "options": ["Sword Art Online", "Attack on Titan", "Re:Zero", "No Game No Life"],
+    "correct": 1
+  },
+  {
+    "question": "¿Qué objeto común invoca al protagonista en Re:Zero?",
+    "options": ["Libro mágico", "Puerta mágica", "Consola de videojuegos", "Ninguno"],
+    "correct": 3
+  },
+  {
+    "question": "¿Quién es Ainz Ooal Gown?",
+    "options": ["El líder de un gremio", "Un slime", "Un caballero andante", "Un maestro de escuela"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime presenta un juego donde los hermanos protagonistas no pueden perder?",
+    "options": ["No Game No Life", "Overlord", "Log Horizon", "Arifureta"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es el género de Arifureta?",
+    "options": ["Isekai", "Romance escolar", "Misterio", "Comedia"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime el protagonista es invocado como un héroe del escudo?",
+    "options": ["Tate no Yuusha", "Re:Zero", "DanMachi", "Youjo Senki"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué clase de ser es Rimuru Tempest?",
+    "options": ["Un caballero", "Un dragón", "Un slime", "Un mago"],
+    "correct": 2
+  },
+  {
+    "question": "¿Quién es el autor de Sword Art Online?",
+    "options": ["Reki Kawahara", "Aka Akasaka", "Tappei Nagatsuki", "ONE"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué anime isekai tiene a Tanya Degurechaff como protagonista?",
+    "options": ["Youjo Senki", "No Game No Life", "Konosuba", "Overlord"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es el apodo de Kazuma en Konosuba?",
+    "options": ["Kazutrash", "Kazuluck", "Kazugod", "Kazumeme"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué habilidad tiene Subaru en Re:Zero?",
+    "options": ["Regresar de la muerte", "Invocación", "Telepatía", "Magia curativa"],
+    "correct": 0
+  },
+  {
+    "question": "¿En qué anime el protagonista es atrapado en un juego de realidad virtual?",
+    "options": ["Sword Art Online", "Bleach", "Naruto", "Death Note"],
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es el nombre del gremio de Ainz en Overlord?",
+    "options": ["Ainz Ooal Gown", "Black Bulls", "Knights of Blood", "Crimson Blade"],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué personaje de Konosuba es conocido por sus explosiones?",
+    "options": ["Aqua", "Darkness", "Megumin", "Yunyun"],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es el objetivo de Shiroe en Log Horizon?",
+    "options": ["Controlar el juego", "Liberar a los jugadores", "Buscar a su hermana", "Construir una nueva sociedad"],
+    "correct": 3
+  },
+  {
+    "question": "¿Qué tipo de mundo aparece en Isekai Cheat Magician?",
+    "options": ["Moderno", "Futurista", "Fantástico medieval", "Postapocalíptico"],
+    "correct": 2
+  },
+  {
+    "question": "¿Qué anime isekai comienza con un accidente de tráfico?",
+    "options": ["Re:Zero", "Konosuba", "Youjo Senki", "Overlord"],
+    "correct": 1
+  }
+]
