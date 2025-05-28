@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom"
 import BackgroundHome from "../components/background/BackgroundIndex"
 import { Form } from "../components/Forms/Form"
 
-export const Register = () => {
+const Register: React.FC = () => {
   const navigate = useNavigate();
   const handleRegister = (data: { email: string; password: string; name?: string }) => {
 
@@ -21,3 +21,4 @@ export const Register = () => {
 </div>
       </BackgroundHome>
   )}
+  export default Register

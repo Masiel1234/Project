@@ -75,7 +75,7 @@ const Quiz: React.FC<QuizProps> = ({ questions }) => {
 
   return (
     <div className="quiz-container p-6 bg-white rounded-lg shadow-lg max-w-md mx-auto">
-      <h2 className="text-2xl font-semibold mb-6 text-gray-800">{currentQuestion.question}</h2>
+      <h2 className="text-2xl font-semibold mb-6 text-gray-800">{t(currentQuestion.question)}</h2>
       <ul className="space-y-3">
         {currentQuestion.options.map((option, index) => (
           <li
@@ -98,7 +98,7 @@ const Quiz: React.FC<QuizProps> = ({ questions }) => {
               pointerEvents: showAnswer ? 'none' : 'auto', 
             }}
           >
-            {option}
+            {t(option)}
           </li>
         ))}
       </ul>
@@ -108,7 +108,7 @@ const Quiz: React.FC<QuizProps> = ({ questions }) => {
           <p className={`text-lg font-medium mb-4 ${selectedOptionIndex === currentQuestion.correct ? 'text-green-600' : 'text-red-600'}`}>
             {selectedOptionIndex === currentQuestion.correct
               ? t('quiz.correctFeedback')
-              : `${t('quiz.incorrectFeedback')} ${currentQuestion.options[currentQuestion.correct]}`}
+              : `${t('quiz.incorrectFeedback')} ${t(currentQuestion.options[currentQuestion.correct])}`}
           </p>
           <button
             onClick={handleNext}

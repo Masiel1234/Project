@@ -20,7 +20,6 @@ const Isekai: React.FC = () => {
 
   return (
     <BackgroundIsekai>
-     
       <div className="min-h-screen flex flex-col items-center justify-center py-8 px-4">
          <h2 className="text-4xl font-extrabold text-black text-center mb-8 drop-shadow-lg">{t('isekaiPage.title')}</h2>
         {questions.length > 0 ? (

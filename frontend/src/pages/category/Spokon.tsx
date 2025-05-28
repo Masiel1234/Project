@@ -23,11 +23,11 @@ const Spokon: React.FC = () => {
     <BackgroundSpokon>
      <ButtonLeave/>
       <div className="min-h-screen flex flex-col items-center justify-center py-8 px-4">
-        <h2 className="text-4xl font-extrabold text-white text-center mb-8 drop-shadow-lg">{t('isekaiPage.title')}</h2>
+        <h2 className="text-4xl font-extrabold text-white text-center mb-8 drop-shadow-lg">{t('spokonPage.title')}</h2>
         {questions.length > 0 ? (
           <Quiz questions={questions} />
         ) : (
-          <p className="text-white text-lg">{t('isekaiPage.loadingQuestions')}</p>
+          <p className="text-white text-lg">{t('spokonPage.loadingQuestions')}</p>
         )}
       </div>
     </BackgroundSpokon>

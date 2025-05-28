@@ -20,7 +20,7 @@ const LanguageSelector: React.FC = () => {
    <label htmlFor='lenguage-select' className='fixed top-4 right-4 w-90 h-12  flex items-center justify-center text-amber-50 duration-300 ease-in-out'>
     {t('common.language_selector_label')}:
    </label>
-   <select onChange={handleChange} value={i18n.language.split('-')[0]} id="lenguage-select"  className='fixed top-4 right-4 w-20 h-12 bg-pink-600 rounded-full flex items-center justify-center text-white shadow-lg hover:bg-pink-700 transition-all duration-300 ease-in-out' aria-label=''>
+   <select onChange={handleChange} value={i18n.language.split('-')[0]} id="lenguage-select"  className='fixed top-4 right-4 w-20 h-12 bg-pink-600 rounded-full flex items-center justify-center text-white shadow-lg hover:bg-pink-700 transition-all duration-300 ease-in-out' aria-label={t('common.language_selector_label')}>
     {superLanguages.map((lang) => (
       <option key={lang.code} value={lang.code}>
         {lang.label}

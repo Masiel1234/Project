@@ -1,6 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { getDisplayCurrencyCode } from "../utils/currencyUtils"; 
+import { useFormattedPrice } from "../hooks/planCard/useFormattedPrice"
+
 
 interface PlanCardProps {
   name: string; 
@@ -8,30 +9,19 @@ interface PlanCardProps {
 }
 
 const PlanCard: React.FC<PlanCardProps> = ({ name, price }) => {
-  const { i18n, t } = useTranslation();
-
-  
-  const currencyCodeToDisplay = getDisplayCurrencyCode(i18n.language);
-
-  const formattedPrice = new Intl.NumberFormat(i18n.language, {
-    style: "currency",
-    currency: currencyCodeToDisplay,
-    minimumFractionDigits: currencyCodeToDisplay === "JPY" ? 0 : 2,
-    maximumFractionDigits: currencyCodeToDisplay === "JPY" ? 0 : 2,
-  }).format(price);
+  const { t } = useTranslation();
+  const formattedPrice = useFormattedPrice(price); 
 
   return (
-   
-   <div className="p-6 border border-gray-200 rounded-2xl shadow-md w-full max-w-xs flex flex-col items-center text-center hover:shadow-lg transition-shadow duration-300 bg-white">
+    <div className="p-6 border border-gray-200 rounded-2xl shadow-md w-full max-w-xs flex flex-col items-center text-center hover:shadow-lg transition-shadow duration-300 bg-white">
       <h2 className="text-xl font-semibold mb-7 text-gray-800 capitalize">
         {t(name)}
       </h2>
-    
       <p className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-black-600 tracking-tight leading-none mt-9 mb-9">
         {formattedPrice}
       </p>
       <button className="mt-4 bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-6 rounded-full transition-colors duration-300 ease-in-out">
-        {t('plans.selectButton')}
+        {t("plans.selectButton")}
       </button>
     </div>
   );

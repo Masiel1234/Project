@@ -3,12 +3,12 @@ import TriviaPage from "../pages/TriviaPage"
 import Login from "../pages/Login";
 import Home from "../pages/Home";
 import Index from "../pages/Index";
-import { Register } from "../pages/Register";
-import Isekai from "../pages/categoty/Isekai";
-import Spokon from "../pages/categoty/Spokon";
-import Shojo from "../pages/categoty/Shojo";
-import Seinen from "../pages/categoty/Seinen";
-import Shonen from "../pages/categoty/Shonen";
+import Register from "../pages/Register";
+import Isekai from "../pages/category/Isekai";
+import Spokon from "../pages/category/Spokon";
+import Shojo from "../pages/category/Shojo";
+import Seinen from "../pages/category/Seinen";
+import Shonen from "../pages/category/Shonen";
 import PlansPage from "../pages/PlansPage";
 
 

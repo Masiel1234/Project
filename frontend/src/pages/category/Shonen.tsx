@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Quiz from '../../components/Quiz'; 
-import SeinenData from '../../data/question-seinen.json'; 
-import BackgroundSeinen from '../../components/background/BackgroundSeinen';
+import ShonenData from '../../data/question-shonen.json'; 
+import BackgroundShonen from '../../components/background/BackgroundShonen';
 import { useTranslation } from 'react-i18next';
 import ButtonLeave from '../../components/button/ButtonLeave';
 
@@ -11,31 +11,31 @@ interface Question {
   correct: number;
 }
 
-const Seinen: React.FC = () => {
-  const [questions, setQuestions] = useState<Question[]>([]);
+
+const Shonen: React.FC = () => {
   const { t } = useTranslation ();
+  const [questions, setQuestions] = useState<Question[]>([]);
 
    useEffect(() => {
-    const withKeys = SeinenData.map((q, index) => ({
+    const withKeys = ShonenData.map((q, index) => ({
       ...q,
       key: String(index),
     }));
     setQuestions(withKeys);
-  }, []);; 
-
+  }, []);
   return (
-    <BackgroundSeinen>
+    <BackgroundShonen>
       <ButtonLeave/>
       <div className="min-h-screen flex flex-col items-center justify-center py-8 px-4">
-        <h2 className="text-4xl font-extrabold text-white text-center mb-8 drop-shadow-lg">{t('isekaiPage.title')}</h2>
+        <h2 className="text-4xl font-extrabold text-white text-center mb-8 drop-shadow-lg">{t('shonenPage.title')}</h2>
         {questions.length > 0 ? (
           <Quiz questions={questions} />
         ) : (
-          <p className="text-white text-lg">{t('isekaiPage.loadingQuestions')}</p>
+          <p className="text-white text-lg">{t('shonenPage.loadingQuestions')}</p>
         )}
       </div>
-    </BackgroundSeinen>
+    </BackgroundShonen>
   );
 };
 
-export default Seinen;
+export default Shonen;
