@@ -1,27 +1,23 @@
 import React, { useEffect, useState } from 'react';
-import Quiz from '../../components/Quiz'; 
+import Quiz from '../../components/quiz/Quiz'; 
 import ShonenData from '../../data/question-shonen.json'; 
 import BackgroundShonen from '../../components/background/BackgroundShonen';
 import { useTranslation } from 'react-i18next';
 import ButtonLeave from '../../components/button/ButtonLeave';
-
-interface Question {
-  question: string;
-  options: string[];
-  correct: number;
-}
-
+import type { Question } from '../../components/quiz/Question';
 
 const Shonen: React.FC = () => {
   const { t } = useTranslation ();
   const [questions, setQuestions] = useState<Question[]>([]);
 
    useEffect(() => {
-    const withKeys = ShonenData.map((q, index) => ({
-      ...q,
-      key: String(index),
+    const formattedQuestions: Question[] = ShonenData.map((q, index) => ({
+      id: index,
+      question: q.question, 
+      options: q.options,   
+      correctAnswerIndex: q.correct
     }));
-    setQuestions(withKeys);
+    setQuestions(formattedQuestions)
   }, []);
   return (
     <BackgroundShonen>

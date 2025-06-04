@@ -9,6 +9,7 @@ export interface TriviaResponse {
     D: string;
   };
   respuestaCorrecta: string;
+  textoRespuestaCorrecta: string;
 }
 
 export const getPreguntaAnime = async (): Promise<TriviaResponse> => {

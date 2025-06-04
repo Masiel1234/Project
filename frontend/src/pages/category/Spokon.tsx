@@ -1,27 +1,30 @@
 import React, { useEffect, useState } from 'react';
-import Quiz from '../../components/Quiz'; 
+import Quiz from '../../components/quiz/Quiz'; 
 import SpokonData from '../../data/question-spokon.json'; 
 import BackgroundSpokon from '../../components/background/BackgroundSpokon';
 import { useTranslation } from 'react-i18next';
 import ButtonLeave from '../../components/button/ButtonLeave';
-
-interface Question {
-  question: string;
-  options: string[];
-  correct: number;
-}
+import LanguageSelector from '../../components/button/LanguageSelector';
+import type { Question } from '../../components/quiz/Question';
 
 const Spokon: React.FC = () => {
   const { t } = useTranslation ();
   const [questions, setQuestions] = useState<Question[]>([]);
 
   useEffect(() => {
-    setQuestions(SpokonData);
+   const formattedQuestions: Question[] = SpokonData.map((q, index) => ({
+      id: index,
+      question: q.question, 
+      options: q.options,   
+      correctAnswerIndex: q.correct
+    }));
+    setQuestions(formattedQuestions)
   }, []);
 
   return (
     <BackgroundSpokon>
      <ButtonLeave/>
+     <LanguageSelector/>
       <div className="min-h-screen flex flex-col items-center justify-center py-8 px-4">
         <h2 className="text-4xl font-extrabold text-white text-center mb-8 drop-shadow-lg">{t('spokonPage.title')}</h2>
         {questions.length > 0 ? (

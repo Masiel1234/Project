@@ -8,8 +8,8 @@ import LanguageSelector from "../components/button/LanguageSelector";
 
 import BackgroundIndex from "../components/background/BackgroundIndex";
 const TriviaPage = () => {
-     const { t , i18n} = useTranslation()
-     const currentLang = i18n.language;
+     const { t } = useTranslation()
+    
   const [preguntaData, setPreguntaData] = useState<TriviaResponse | null>(null);
   const [respuestaUsuario, setRespuestaUsuario] = useState<string | null>(null);
   const [respuestaCorrecta, setRespuestaCorrecta] = useState<string | null>(null);
@@ -23,7 +23,7 @@ const TriviaPage = () => {
 
   useEffect(() => {
     cargarPregunta();
-  }, [currentLang]);
+  }, []);
 
   const handleRespuesta = (opcion: string) => {
     setRespuestaUsuario(opcion);
